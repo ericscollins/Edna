@@ -1,2 +1,2 @@
 # Edna
-ToDo List application
+ToDo List application.
